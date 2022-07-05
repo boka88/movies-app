@@ -7,13 +7,13 @@ body{
   text-decoration: none;
   list-style-type: none;
   outline: none;
-  background-image: url("image.jpg");
+  background-color: rgb(163, 117, 117);
 }
 
 .container{
   width: 100%;
   margin: 1em auto;
-  background-color: darkslategray;
+  background-color: rgb(156, 206, 206);
 }
 
 .grid{
